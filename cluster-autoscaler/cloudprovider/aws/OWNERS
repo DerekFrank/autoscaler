@@ -1,11 +1,15 @@
 approvers:
+- DerekFrank
 - gjtempleton
+- Ignoramuss
 emeritus_approvers:
 - Jeffwan
 - jaypipes
 - drmorr0
 reviewers:
+- DerekFrank
 - gjtempleton
+- Ignoramuss
 
 labels:
 - area/provider/aws
